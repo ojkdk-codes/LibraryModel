@@ -3,3 +3,4 @@ LibraryModel is a Java-based library management system that organizes books usin
 
 In order for this progream to run correctly, the input file should be in below format:
 book-name,isbn,yyyy-mm-dd
+Book Name,ISBN,YYYY-MM-DD
